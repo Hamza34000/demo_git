@@ -1,2 +1,2 @@
 # demo_git
-Une demo de git qui si passe bien avec le prof Hamza 
+Une demo de git qui se passe bien avec le prof Hamza 
